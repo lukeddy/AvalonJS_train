@@ -1,2 +1,4 @@
 # AvalonJS_train
-AvalonJS练习示例
+AvonJS练习示例
+
+官网：http://avalonjs.github.io/
